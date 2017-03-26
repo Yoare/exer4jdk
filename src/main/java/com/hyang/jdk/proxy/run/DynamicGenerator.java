@@ -1,8 +1,8 @@
-package com.hyang.jdk.aop.proxy.run;
+package com.hyang.jdk.proxy.run;
 
-import com.hyang.jdk.aop.proxy.agency.DynamicProxy;
-import com.hyang.jdk.aop.proxy.client.Vendor;
-import com.hyang.jdk.aop.proxy.iface.Sell;
+import com.hyang.jdk.proxy.agency.DynamicProxy;
+import com.hyang.jdk.proxy.client.Vendor;
+import com.hyang.jdk.proxy.iface.Sell;
 
 import java.lang.reflect.Proxy;
 

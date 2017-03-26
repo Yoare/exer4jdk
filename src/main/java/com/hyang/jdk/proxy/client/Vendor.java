@@ -1,6 +1,6 @@
-package com.hyang.jdk.aop.proxy.client;
+package com.hyang.jdk.proxy.client;
 
-import com.hyang.jdk.aop.proxy.iface.Sell;
+import com.hyang.jdk.proxy.iface.Sell;
 
 /**
  * Created by hyang on 2017/3/26.

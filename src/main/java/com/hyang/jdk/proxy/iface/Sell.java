@@ -1,4 +1,4 @@
-package com.hyang.jdk.aop.proxy.iface;
+package com.hyang.jdk.proxy.iface;
 
 /**
  * Created by hyang on 2017/3/26.

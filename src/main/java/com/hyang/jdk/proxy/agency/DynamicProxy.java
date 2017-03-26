@@ -1,4 +1,4 @@
-package com.hyang.jdk.aop.proxy.agency;
+package com.hyang.jdk.proxy.agency;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -6,6 +6,7 @@ import java.lang.reflect.Method;
 /**
  * 中介类与委托类构成了静态代理关系，在这个关系中，中介类是代理类，委托类就是委托类；
  * 代理类（proxy）与中介类（angency）也构成了一个静态代理的关系（中介类是委托（client），代理类是代理）
+ * 使用了动态代理类以后，就不用自己实现代理类了。（WeAgent类就不需要了）
  *
  * Created by hyang on 2017/3/26.
  */
