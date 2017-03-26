@@ -28,7 +28,6 @@ public class DynamicGenerator {
         //3.获取代理类实例sell
         /*
             static Object newProxyInstance(ClassLoader loader, Class<?>[] interfaces, InvocationHandler h) throws IllegalArgumentException
-
             方法的三个参数含义分别如下：
             loader：定义了代理类的ClassLoder；
             interfaces：代理类实现的接口列表
